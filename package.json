@@ -1,0 +1,10 @@
+{
+  "name": "eddthing",
+  "version": "1.0.0",
+  "description": "Eddthing is SuperPower WebSite",
+  "main": "index.js",
+  "author": "Sangou",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
